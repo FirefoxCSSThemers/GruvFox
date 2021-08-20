@@ -10,7 +10,7 @@ So, here is the theme:
 
 This edition is made by [Agnihotra Nath](https://github.com/alfarexguy2019)
 
-Original theme by [dpcdpc11](https://github.com/dpcdpc11)
+Original theme by [dpcdpc11](https://deviantart.com/dpcdpc11)
 
 Got the idea in [Winthemers](https://discord.gg/82eTY8nSFH)
 

@@ -792,3 +792,8 @@ searchbar#searchbar {
 	-moz-appearance: none !important;
 }
 
+
+
+tab:not([selected="true"]) label.tab-text{
+	opacity: 0.6;
+}

@@ -1,6 +1,11 @@
 # GruvFox
 GruvFox is a remix of dpcdpc11's theme, featuring the gruvbox color palette.
 
+
+  [![Discord](https://discord.com/api/guilds/763847972013342740/widget.png)](https://discord.gg/82eTY8nSFH)
+  [![Github All Releases](https://img.shields.io/github/downloads/FirefoxCSSThemers/GruvFox/total.svg?style=flat&logo=github)](https://github.com/FirefoxCSSThemers/GruvFox/releases)[![GitHub release](https://img.shields.io/github/release/FirefoxCSSThemers/GruvFox.svg?style=flat&logo=github)](https://github.com/FirefoxCSSThemers/GruvFox/releases)
+
+
 Gruvbox is a very trending color scheme, with setups, wallpapers, themes and stuff all over the place. So, why not a firefox theme?
 
 Here's the color scheme:

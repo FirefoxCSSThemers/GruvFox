@@ -70,7 +70,7 @@ tab[selected="true"] .tab-background {
     border-radius: 4px !important;
 }
 .tab-close-button:hover {
-    fill-opacity: 0.2 !important;
+    fill-opacity: 1 !important;
 }
 
 .tabbrowser-tab > .tab-stack > .tab-background {

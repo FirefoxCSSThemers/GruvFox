@@ -27,4 +27,4 @@ Got the idea in [Winthemers](https://discord.gg/82eTY8nSFH)
 
 - Windows:
 
-![image](https://user-images.githubusercontent.com/78948152/130311919-3d51eb9d-8ab9-488a-b010-2423e2ee122b.png)
+![image](https://user-images.githubusercontent.com/84819317/131429846-2e9b70a4-c538-4607-971e-b87e85f71241.png)
